@@ -1,0 +1,2 @@
+These are my personal notes for the magnificent book "Structure and Interpretation of Computer Programs"
+I also added some exercises
